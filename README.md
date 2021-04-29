@@ -3,8 +3,9 @@
 
 
 
-Sistema de inscricion de Alumnos utilizando Spring Framework, realizado para resolver un desafio cuyos requerimientos se detallan abajo.
+Sistema de inscripción de Alumnos utilizando Spring Framework, realizado para resolver un desafío cuyos requerimientos se detallan abajo.
 Video en loom del programa funcionando parte 1
+
 https://www.loom.com/share/3bb1973e1dfa48ed80a357efde888293
 
 video en loom  del programa funcionando parte 2
